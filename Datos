@@ -1,9 +1,2 @@
 data/README.md
 Datos fuente para análisis QA
-Bug_ID,Titulo,Severidad,Prioridad,Modulo,Estado,Sprint,Fecha_Reporte,Reportado_Por,Ambiente
-1,Login falla con credenciales válidas,Critical,P1,Login,Open,Sprint 10,2026-02-01,QA,QA
-2,Mensaje de error no visible en login,Medium,P2,Login,In Progress,Sprint 10,2026-02-02,QA,QA
-3,Pago duplicado al refrescar página,High,P1,Payments,Fixed,Sprint 10,2026-02-01,QA,UAT
-4,No se actualiza foto de perfil,Low,P3,Profile,Closed,Sprint 10,2026-02-03,QA,QA
-5,Timeout al confirmar pago,Critical,P1,Payments,Open,Sprint 10,2026-02-04,QA,PROD
-6,Campo email acepta formato inválido,Medium,P2,Profile,In Progress,Sprint 10,2026-02-02,QA,QA
