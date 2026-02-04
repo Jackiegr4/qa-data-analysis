@@ -1,7 +1,13 @@
 Bug_ID,Titulo,Severidad,Prioridad,Modulo,Estado,Sprint,Fecha_Reporte,Reportado_Por,Ambiente
-1,Login falla con credenciales válidas,Critical,P1,Login,Open,Sprint 10,2026-02-01,QA,QA
-2,Mensaje de error no visible en login,Medium,P2,Login,In Progress,Sprint 10,2026-02-02,QA,QA
-3,Pago duplicado al refrescar página,High,P1,Payments,Fixed,Sprint 10,2026-02-01,QA,UAT
-4,No se actualiza foto de perfil,Low,P3,Profile,Closed,Sprint 10,2026-02-03,QA,QA
-5,Timeout al confirmar pago,Critical,P1,Payments,Open,Sprint 10,2026-02-04,QA,PROD
-6,Campo email acepta formato inválido,Medium,P2,Profile,In Progress,Sprint 10,2026-02-02,QA,QA
+BUG-001,Error al iniciar sesión,Critical,P1,Login,Open,Sprint 10,2026-02-01,QA,QA
+BUG-002,Campo email no valida formato,Medium,P3,Login,Closed,Sprint 10,2026-02-01,QA,QA
+BUG-003,Fallo en pago con tarjeta,Critical,P1,Payments,In Progress,Sprint 10,2026-02-02,QA,QA
+BUG-004,Texto desalineado en mobile,Low,P4,UI,Closed,Sprint 10,2026-02-02,QA,QA
+BUG-005,Timeout en consulta de órdenes,High,P2,Orders,Open,Sprint 10,2026-02-03,QA,UAT
+BUG-006,Error 500 al guardar perfil,High,P2,Profile,Fixed,Sprint 10,2026-02-03,QA,QA
+BUG-007,Botón no responde en Safari,Medium,P3,UI,In Progress,Sprint 10,2026-02-04,QA,QA
+BUG-008,Cálculo incorrecto de impuestos,Critical,P1,Payments,Open,Sprint 10,2026-02-04,QA,PROD
+BUG-009,Mensaje de error poco claro,Low,P4,UX,Closed,Sprint 10,2026-02-05,QA,QA
+BUG-010,Búsqueda no retorna resultados,High,P2,Search,Fixed,Sprint 10,2026-02-05,QA,QA
+BUG-011,Duplicidad de órdenes,High,P2,Orders,In Progress,Sprint 10,2026-02-06,QA,UAT
+BUG-012,Crash en app iOS,Critical,P1,Mobile,Open,Sprint 10,2026-02-06,QA,QA
